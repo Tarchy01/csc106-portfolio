@@ -1,3 +1,2 @@
-# Seyi's Portfolio (CSC 106 term project)
-Static site: open index.html, or host the folder on GitHub Pages or Netlify.
-Replace: images/profile.svg with your photo, media/welcome.wav with your own audio/video, and the "add link" placeholders.
+# Student Portfolio (CSC 106 term project)
+Static site built with HTML, CSS and JavaScript. Open index.html, or see the live site on GitHub Pages.
